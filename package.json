@@ -1,0 +1,16 @@
+{
+  "name": "cicd_github_test",
+  "version": "0.0.0-semantic-release",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^15.0.0",
+    "@commitlint/config-conventional": "^15.0.0"
+  }
+}
